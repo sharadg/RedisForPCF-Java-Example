@@ -4,7 +4,9 @@ package io.pivotal.examples.RedisExample;
 
 public class RedisInstanceInfo {
     private String host;
+
     private int port;
+
     private String password;
 
     public String getHost() { 
